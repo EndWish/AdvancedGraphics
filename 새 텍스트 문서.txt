@@ -25,3 +25,24 @@
 메테리얼 인스턴싱 -> 메테리얼 우클릭한 후 인스턴스 생성 누르면 됨 : 파라메터로 만든것들은 수정해도 컴파일을 하지 않아도 된다.
 
 Fresnel : 카메라와의 각도가 작을 수록 작은? 값을 얻을 수 있다.
+
+subsurface color활성화 : shading Model을 수정
+오파시티가 작을 수록 subsurface의 영향이 커진다.
+
+엠비언트 오클루전 : 차폐정도에 따라 셀프 쉐도우, 
+			미세한 광량 차이 표현, 
+			표면의 작은 틈에 생기는 그림자, 
+			Light mobility : 스태틱, 
+			스테이셔너리에서만 작동함. 
+			Lumen Global Illumination Method일 경우 사용이 제한됨
+
+Lumen Global Illumination Method 해제 : 프로젝트 세팅 - 다이내믹 글로벌 이루미네이션 메서드를 스크린 스페이스로 바꿈.
+
+TwoSidedSign : 
+
+
+
+
+
+
+
