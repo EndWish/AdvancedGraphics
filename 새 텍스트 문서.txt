@@ -57,5 +57,13 @@ VertexNormalWS에 mask를 취해 B를 빼내면 월드에서 아래쪽인 부분
 
 CheepContrast : 젖어 있는 느낌을 준다.
 
+라이팅 포함 - 버퍼 보기 - 전체 보기
+
+화면전체에 PostProcess 설정 : PostProcessVolume 액터 - 디테일 창의 무한 규모
+	Bloom : 빛 번짐, Chromatit Aberration : 자성 테이프가 잘못 읽힌것 처럼 나타냄 , Dirt Mask : 빛을 받으면 설정된 텍스쳐가 비쳐보이는 효과(비문증 효과?)
+	Lens Flare : 카메라 렌즈로 빛이 산란되는 것, Depth Of Field : 씬의 포커스 지점 앞이나 뒷부분을 거리에 따라 흐리게 만드는 기법 + Camera옵션과 연관됨
+	Misc : 색의 온도?를 추가해줌
+
+
 
 
