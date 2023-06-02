@@ -65,5 +65,6 @@ CheepContrast : 젖어 있는 느낌을 준다.
 	Misc : 색의 온도?를 추가해줌
 
 
-
+셀 쉐이딩 할때 : 글로벌 이루미네이션 Lumen->None + 리플렉션 Lumen + None
+안티 에일리어싱 메서드도 꺼보자.
 
